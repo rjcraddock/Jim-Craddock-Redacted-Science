@@ -6,6 +6,13 @@ Documented echoes of a crescendo,
 with a decentralized trail that is hard to burn.
 
 
+IPFS: https://bafybeig24qdh7kiiy6hzeivbtaur73pe2cgdyr77cefs6tvlxzxfwudgwi.ipfs.w3s.link/
+Homepage: https://www.jimcraddock.com/
+Nostr npub: npub1w0v2psmnnsq23qpwum66hc8wxvxc083t6xpndmx28z3qtsv9xutsfjz2tf
+
+Candida
+Candidiasis
+Biochemical Computer and Organ
 
 Foreword
 
