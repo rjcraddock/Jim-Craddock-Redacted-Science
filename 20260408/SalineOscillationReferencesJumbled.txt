@@ -1,0 +1,184 @@
+
+Agarwal, S., et al. (2014). Arachidonic acid affects biofilm formation and PGE₂ level in Candida albicans and non-albicans species in presence of subinhibitory concentration of fluconazole and terbinafine. Brazilian Journal of Infectious Diseases, 18(3), 287–293. doi:10.1016/j.bjid.2013.09.006
+Alem, M.A., & Douglas, L.J. (2005). Prostaglandin production during growth of Candida albicans biofilms. Journal of Medical Microbiology, 54(11), 1001–1005. doi:10.1099/jmm.0.46172-0
+Augustyniak, D., Kramarska, E., Mackiewicz, P., Olszak, T., & Weber-Dabrowska, B. (2021). Mammalian neuropeptides as modulators of microbial infections: Their dual role in defense versus virulence and pathogenesis. International Journal of Molecular Sciences, 22(7), 3658. doi:10.3390/ijms22073658
+Bader, O., Krauke, Y., & Hube, B. (2008). Processing of predicted substrates of fungal Kex2 proteinases from Candida albicans, C. glabrata, Saccharomyces cerevisiae and Pichia pastoris. BMC Microbiology, 8, 116. doi:10.1186/1471-2180-8-116
+Bartelli, T.F., Bruno, D.C.F., & Briones, M.R.S. (2018). Evidence for mitochondrial genome methylation in the yeast Candida albicans: A potential novel epigenetic mechanism affecting adaptation and pathogenicity? Frontiers in Genetics, 9, 166. doi:10.3389/fgene.2018.00166
+Bhatt, S., et al. (2024). Na⁺/K⁺-ATPase: More than an electrogenic pump. International Journal of Molecular Sciences, 25(11), 6122. doi:10.3390/ijms25116122
+Brogden, K.A., Guthmiller, J.M., Salzet, M., & Zasloff, M. (2005). The nervous system and innate immunity: The neuropeptide connection. Nature Immunology, 6(6), 558–564. doi:10.1038/ni1209
+Buck, A.H., Coakley, G., Simbari, F., et al. (2014). Exosomes secreted by nematode parasites transfer small RNAs to mammalian cells and modulate innate immunity. Nature Communications, 5, 5488. doi:10.1038/ncomms6488
+Cai, Q., Qiao, L., Wang, M., et al. (2018). Plants send small RNAs in extracellular vesicles to fungal pathogen to silence virulence genes. Science, 360(6393), 1126–1129. doi:10.1126/science.aar4142
+Chen, Y., et al. (2025). Coordinated regulation of pH alkalinization by two transcription factors promotes fungal commensalism and pathogenicity. Nature Communications, 16, 7512. doi:10.1038/s41467-025-62953-x
+Danhof, H.A., et al. (2016). Robust extracellular pH modulation by Candida albicans during growth in carboxylic acids. mBio, 7(6), e01646-16. doi:10.1128/mBio.01646-16
+Deva, R., Ciccoli, R., Schewe, T., Kock, J.L.F., & Nigam, S. (2000). Arachidonic acid stimulates cell growth and forms a novel oxygenated metabolite in Candida albicans. Biochimica et Biophysica Acta, 1486(2–3), 299–311.
+Di Marzo, V. (2006). Endocannabinoids: synthesis and degradation. Reviews of Physiology, Biochemistry and Pharmacology, 160, 1–24.
+Dunkel, N., Hertlein, T., Franz, R., et al. (2013). Roles of different peptide transporters in nutrient acquisition in Candida albicans. Eukaryotic Cell, 12(4), 520–528. doi:10.1128/EC.00008-13
+Elson, S.L., Noble, S.M., Solis, N.V., Filler, S.G., & Johnson, A.D. (2009). An RNA transport system in Candida albicans regulates hyphal morphology and invasive growth. PLoS Genetics, 5(9), e1000664. doi:10.1371/journal.pgen.1000664
+Erb-Downward, J.R., & Noverr, M.C. (2007). Characterization of prostaglandin E₂ production by Candida albicans. Infection and Immunity, 75(7), 3498–3505. doi:10.1128/IAI.00232-07
+Freire-Benéitez, V., Price, R.J., & Buscaino, A. (2016). Candida albicans repetitive elements display epigenetic diversity and plasticity. Scientific Reports, 6, 22989. doi:10.1038/srep22989
+Garrahan, P.J., & Glynn, I.M. (1966). Driving the sodium pump backwards to form adenosine triphosphate. Nature, 211, 1414–1415. doi:10.1038/2111414a0
+Head, M.G., et al. (2014). A systematic analysis of funding awarded for mycology research to institutions in the UK, 1997–2010. The Lancet Infectious Diseases. doi:10.1016/S1473-3099(14)70799-5
+Hia, F., Wu, Y., Yoshinaga, M., et al. (2026). Human DHX29 detects nonoptimal codon usage to regulate mRNA stability. Science. doi:10.1126/science.adw0288
+Ho, J., et al. (2021). Candidalysin is a potent trigger of alarmin and antimicrobial peptide release in epithelial cells. Cells, 9(3), 699. doi:10.3390/cells9030699
+Karkowska-Kuleta, J., et al. (2025). Host cell responses to Candida albicans biofilm-derived extracellular vesicles. Frontiers in Cellular and Infection Microbiology, 14, 1499461. doi:10.3389/fcimb.2024.1499461
+
+Kinclova-Zimmermannova, O., Zavrel, M., & Sychrová, H. (2007). Plasma-membrane Cnh1 Na⁺/H⁺ antiporter regulates potassium homeostasis in Candida albicans. Microbiology, 153(8), 2615–2628. doi:10.1099/mic.0.2007/008011-0
+Klar, A.J.S., et al. (2001). A histone deacetylation inhibitor and mutant promote colony-type switching of the human pathogen Candida albicans. Genetics, 158(3), 919–924.
+Krombach, S., et al. (2025). A co-evolved peptide-GPCR system senses host entry to drive fungal infection. bioRxiv. doi:10.1101/2025.09.26.678928
+Kundu, G., & Noverr, M.C. (2011). Exposure to host or fungal PGE₂ abrogates protection following immunization with Candida-pulsed dendritic cells. Medical Mycology, 49(4), 380–394. doi:10.3109/13693786.2010.532514
+Kussell, E., & Leibler, S. (2005). Phenotypic diversity, population growth, and information in fluctuating environments. Science, 309(5743), 2075–2078. doi:10.1126/science.1114383
+Lachat, J., et al. (2022). Trans-cellular tunnels induced by the fungal pathogen Candida albicans facilitate invasion through successive epithelial cells without host damage. Nature Communications, 13, 3781. doi:10.1038/s41467-022-31237-z
+Li, Y., et al. (2018). Promising antifungal targets against Candida albicans based on ion homeostasis. Frontiers in Cellular and Infection Microbiology, 8, 286. doi:10.3389/fcimb.2018.00286
+Lin, J., & Filler, S.G. (2025). Host targets of candidalysin. PLoS Pathogens, 21(6), e1013284. doi:10.1371/journal.ppat.1013284
+Lin, J., et al. (2024). Global fungal-host interactome mapping identifies host targets of candidalysin. Nature Communications, 15, 1757. doi:10.1038/s41467-024-46141-x
+Lopez CM, Wallich R, Riesbeck K, Skerka C, Zipfel PF (2014).
+Candida albicans uses the surface protein Gpm1 to attach to human endothelial cells and to keratinocytes via the adhesive protein vitronectin. PLoS ONE. 9(3):e90796.
+Martínez-López, R., et al. (2022). Candida albicans hyphal extracellular vesicles are different from yeast ones, carrying an active proteasome complex and showing a different role in host immune response. mSphere, 7(3), e00098-22. doi:10.1128/msphere.00098-22
+Masachis, S., et al. (2016). A fungal pathogen secretes plant alkalinizing peptides to increase infection. Nature Microbiology, 1, 16043.
+Mishra, P.K., Baum, M., & Carbon, J. (2011). DNA methylation regulates phenotype-dependent transcriptional activity in Candida albicans. Proceedings of the National Academy of Sciences, 108(29), 11965–11970. doi:10.1073/pnas.1109631108
+Mitchell, A., et al. (2009). Adaptive prediction of environmental changes by microorganisms. Nature, 460, 220–224. doi:10.1038/nature08112
+Moyes, D.L., et al. (2016). Candidalysin is a fungal peptide toxin critical for mucosal infection. Nature, 532(7597), 64–68. doi:10.1038/nature17625
+Moyes, D.L., et al. (2019). Candidalysin activates innate epithelial immune responses via epidermal growth factor receptor. Nature Communications, 10, 2297. doi:10.1038/s41467-019-09915-2
+Naglik, J.R., et al. (2022). Pathogenesis and virulence of Candida albicans. Virulence, 13(1), 1–45. doi:10.1080/21505594.2021.2019950
+Noll, A., et al. (2025). Candida albicans biofilm extracellular vesicles deliver candidalysin to epithelial cell membranes and induce host cell responses. Infection and Immunity. doi:10.1128/iai.00404-24
+
+Noverr, M.C., & Huffnagle, G.B. (2004). Regulation of Candida albicans morphogenesis by fatty acid metabolites. Infection and Immunity, 72(11), 6206–6210.
+Noverr, M.C., Phare, S.M., Toews, G.B., Coffey, M.J., & Huffnagle, G.B. (2001). Pathogenic yeasts Cryptococcus neoformans and Candida albicans produce immunomodulatory prostaglandins. Infection and Immunity, 69(5), 2957–2963. doi:10.1128/IAI.69.5.2957-2963.2001
+Peres da Silva, R., et al. (2022). The RNA content of fungal extracellular vesicles: At the "cutting-edge" of pathophysiology regulation. Cells, 11(14), 2235. doi:10.3390/cells11142235
+Porquier, A., et al. (2023). A fungal RNA-dependent RNA polymerase is a novel player in plant infection and cross-kingdom RNA interference. PLoS Pathogens, 19(12), e1011885. doi:10.1371/journal.ppat.1011885
+Ramos, J., et al. (2022). Candida albicans potassium transporters. International Journal of Molecular Sciences, 23(9), 4884. doi:10.3390/ijms23094884
+Reuß, O., & Morschhäuser, J. (2006). A family of oligopeptide transporters is required for growth of Candida albicans on proteins. Molecular Microbiology, 60(3), 795–812. doi:10.1111/j.1365-2958.2006.05136.x
+Richardson, J.P., et al. (2018). Processing of Candida albicans Ece1p is critical for candidalysin maturation and fungal virulence. mBio, 9(1), e02178-17. doi:10.1128/mBio.02178-17
+Robinson, J.D., Hall, E.S., & Dunham, P.B. (1977). Reversal of the Na-K pump and apparent affinity for intracellular potassium. Nature, 269, 165–167. doi:10.1038/269165a0
+Russell, C.M., et al. (2022). The Candida albicans virulence factor candidalysin polymerizes in solution to form membrane pores and damage epithelial cells. eLife, 11, e75490. doi:10.7554/eLife.75490
+Sagar, L.S.R., et al. (2017). Epigenetic determinants of phenotypic plasticity in Candida albicans. Fungal Biology Reviews, 32(1), 10–19. doi:10.1016/j.fbr.2017.07.002 [ScienceDirect S1749461317300416]
+Schaller, M., et al. (1999). Invasion of Candida albicans correlates with expression of secreted aspartic proteinases during experimental infection of human epidermis. Journal of Investigative Dermatology, 114(4), 712–717.
+Schwarz, W., et al. (1991). Conditions for a backward-running Na⁺/K⁺ pump in Xenopus oocytes. Biochimica et Biophysica Acta. doi:10.1016/0005-2736(91)90062-D
+Shivarathri, R., et al. (2019). The Candida albicans biofilm gene circuit modulated at the chromatin level by a recent molecular histone innovation. PLoS Biology, 17(8), e3000422. doi:10.1371/journal.pbio.3000422
+
+Sterkel, A.K., et al. (2016). Fungal mimicry of a mammalian aminopeptidase disables innate immunity and promotes pathogenicity. Cell Host & Microbe, 19(3), 361–374. doi:10.1016/j.chom.2016.02.001
+Strydom, A., et al. (2010). Effect of inhibitors of arachidonic acid metabolism on prostaglandin E₂ production by Candida albicans and Candida dubliniensis biofilms. Medical Microbiology and Immunology, 200(1), 23–28. doi:10.1007/s00430-010-0169-7
+Sugiura, T., & Waku, K. (2002). Biosynthesis and degradation of anandamide and 2-arachidonoylglycerol and their possible physiological significance. Prostaglandins, Leukotrienes and Essential Fatty Acids, 66(2–3), 173–192.
+Tagkopoulos, I., Liu, Y.C., & Tavazoie, S. (2008). Predictive behavior within microbial genetic networks. Science, 320(5881), 1313–1317. doi:10.1126/science.1154456
+Toth, R., et al. (2015). Candida parapsilosis produces prostaglandins from exogenous arachidonic acid and OLE2 is not required for their synthesis. Virulence, 6(1), 85–92. doi:10.4161/21505594.2014.988097
+van den Bergh, B., et al. (2022). Do microbes have a memory? History-dependent behavior in the adaptation to variable environments. Frontiers in Microbiology, 13, 1004488. doi:10.3389/fmicb.2022.1004488
+Vylkova, S. (2017). Environmental pH modulation by pathogenic fungi as a strategy to conquer the host. PLoS Pathogens, 13(2), e1006149. doi:10.1371/journal.ppat.1006149
+Vylkova, S., & Lorenz, M.C. (2014). Modulation of phagosomal pH by Candida albicans promotes hyphal morphogenesis and requires Stp2p, a regulator of amino acid transport. PLoS Pathogens, 10(3), e1003995. doi:10.1371/journal.ppat.1003995
+Vylkova, S., Carman, A.J., Danhof, H.A., et al. (2011). The fungal pathogen Candida albicans autoinduces hyphal morphogenesis by raising extracellular pH. mBio, 2(3), e00055-11. doi:10.1128/mBio.00055-11
+Weiberg, A., Wang, M., Lin, F.M., et al. (2013). Fungal small RNAs suppress plant immunity by hijacking host RNA interference pathways. Science, 342(6154), 118–123. doi:10.1126/science.1239705
+Wernecke, B., et al. (2025). Fungal Argonaute proteins act in bidirectional cross-kingdom RNA interference during plant infection. Proceedings of the National Academy of Sciences, 122(17), e2422756122. doi:10.1073/pnas.2422756122
+WHO. (2022). WHO fungal priority pathogens list to guide research, development and public health action. World Health Organization. ISBN: 978-92-4-006024-1
+Yu, Q., et al. (2014). Interaction among the vacuole, the mitochondria, and the oxidative stress response is governed by the transient receptor potential channel in Candida albicans. Free Radical Biology and Medicine, 77, 152–167. doi:10.1016/j.freeradbiomed.2014.09.011
+
+Zarnowski, R., et al. (2018). Candida albicans biofilm-induced vesicles confer drug resistance through matrix biogenesis. PLoS Biology, 16(10), e2006872. doi:10.1371/journal.pbio.2006872
+Zarnowski, R., Noll, A., Chevrette, M.G., et al. (2021). Coordination of fungal biofilm development by extracellular vesicle cargo. Nature Communications, 12, 6235. doi:10.1038/s41467-021-26525-z
+Zarnowski, R., et al. (2022). A common vesicle proteome drives fungal biofilm development. Proceedings of the National Academy of Sciences, 119(38), e2211424119. doi:10.1073/pnas.2211424119
+Zhang, X., et al. (2022). Antimicrobial effect of extracellular vesicles derived from human oral mucosal epithelial cells on Candida albicans. Frontiers in Immunology, 13, 959962. doi:10.3389/fimmu.2022.959962
+Zhu, Q., Tan, P., Li, Y., et al. (2018). DHX29 functions as an RNA co-sensor for MDA5-mediated EMCV-specific antiviral immunity. PLoS Pathogens, 14(2), e1006886. doi:10.1371/journal.ppat.1006886
+
+
+
+A, A. & Sm, K. (2018). Acetylcholine induces yeast to hyphal form transition in Candida albicans. Fungal Genomics and Biology, 8, p154.
+Abe, S., et al. (2010). Farnesol induces macrophage apoptosis. [Full citation to be confirmed]
+Acharya, N., et al. (2017). Endocannabinoid system acts as a regulator of immune homeostasis in the gut. Proceedings of the National Academy of Sciences, 114(19), 5005–5010. doi:10.1073/pnas.1612177114
+Ali, A., Jadhav, A., Jangid, P., et al. (2018). The human muscarinic acetylcholine receptor antagonist, Dicyclomine targets signal transduction genes and inhibits the virulence factors in the human pathogen, Candida albicans. The Journal of Antibiotics, 71, 456–466.
+Alonso-Monge, R., Gresnigt, M.S., Román, E., Hube, B., & Pla, J. (2021). Candida albicans colonization of the gastrointestinal tract: A double-edged sword. PLoS Pathogens, 17(7), e1009710.
+
+Arc Institute. (2025). Evo 2: Genome modeling and design across all domains of life. bioRxiv. doi:10.1101/2025.02.18.638918 [Subsequently published in Nature, 2026]
+Brown, F., Harris, J., Leakey, R., & Walker, A. (1985). Early Homo erectus skeleton from west Lake Turkana, Kenya. Nature, 316(6031), 788–792. doi:10.1038/316788a0
+Butler, G., et al. (2009). Evolution of pathogenicity and sexual reproduction in eight Candida genomes. Nature, 459(7247), 657–662. doi:10.1038/nature08064
+Chen, Y., et al. (2022). Integrative functional analysis uncovers metabolic differences between Candida species. Communications Biology, 5, 955.
+Chorowicz, J. (2005). The East African rift system. Journal of African Earth Sciences, 43(1–3), 379–410. doi:10.1016/j.jafrearsci.2005.07.019
+Craddock, J. (2013). Unpublished clinical summary and Article recollection. Personal archive.
+Craddock, J. (2022). Terminal Onset Diabetes Insipidus with Candidiasis: A Longitudinal Case Study. jimcraddock.com. January 2022.
+Craddock, J. (2026a). Redacted Science: The Pan-Mammalian Co-Evolution Hypothesis. Substack. Published March 2026.
+Craddock, J. (2026b). Redacted Science [Book]. Distributed via IPFS, Nostr, redactedscience.org. CID: bafybeidq7u7xbs526xvml6s6pbwq43rh7k5bzdrgkwlovwhw5oq2vhdrja
+Crawford, G.W. (2006). East Asian plant domestication. In M.T. Stark (Ed.), Archaeology of Asia (pp. 77–95). Blackwell.
+Cugini, C., et al. (2007). Farnesol, a common sesquiterpene, inhibits PQS production in Pseudomonas aeruginosa. Molecular Microbiology, 65(4), 896–906.
+Cunnane, S.C. (2005). Survival of the Fattest: The Key to Human Brain Evolution. World Scientific Publishing.
+De Petrocellis, L., et al. (1999). The endogenous cannabinoid anandamide inhibits human breast cancer cell proliferation. Proceedings of the National Academy of Sciences, 96(14), 8369–8374.
+Décanis, N., et al. (2009). Farnesol modulates TLR2, TLR4, and TLR6 expression in oral epithelial cells. Cellular Microbiology. 11(6): 951–963.
+Deocampo, D.M., & Renaut, R.W. (2022). Mineral precipitation and hydrochemical evolution through evaporitic processes in soda brines (East African Rift Valley). Chemical Geology, 613, 121153. doi:10.1016/j.chemgeo.2022.121153
+
+Di Marzo, V., & Piscitelli, F. (2015). The endocannabinoid system and its modulation by phytocannabinoids. Neurotherapeutics, 12(4), 692–698.
+Dichtl, K., et al. (2010). Farnesol misplaces tip-localized Rho proteins and inhibits cell wall integrity signalling in Aspergillus fumigatus. Molecular Microbiology, 76(5), 1191–1204.
+Dumeaux, V., Massahi, S., Bettauer, V., et al. (2023). Candida albicans exhibits heterogeneous and adaptive cytoprotective responses to antifungal compounds. eLife, 12, e81406.
+Ebinger, C.J., et al. (2000). Rift deflection, migration, and propagation: Linkage of the Ethiopian and Eastern rifts, Africa. GSA Bulletin, 112(2), 163–176.
+Egbe, N.E., et al. (2017). Farnesol inhibits translation to limit growth and filamentation in C. albicans and S. cerevisiae. Microbial Cell, 4(9), 294–304.
+Eldredge, N., & Gould, S.J. (1972). Punctuated equilibria: An alternative to phyletic gradualism. In T.J.M. Schopf (Ed.), Models in Paleobiology (pp. 82–115). Freeman, Cooper.
+Elphick, M.R. (2012). The evolution and comparative neurobiology of endocannabinoid signalling. Philosophical Transactions of the Royal Society B, 367(1607), 3201–3215. doi:10.1098/rstb.2011.0394
+Elphick, M.R., Satou, Y., & Satoh, N. (2003). The invertebrate ancestry of endocannabinoid signalling: An orthologue of vertebrate cannabinoid receptors in the urochordate Ciona intestinalis. Gene, 302(1–2), 95–101. doi:10.1016/S0378-1119(02)01094-6
+Forman, B.M., et al. (1995). Identification of a nuclear receptor that is activated by farnesol metabolites. Cell, 81(5), 687–693.
+Fredriksson, R., et al. (2003). The G-protein-coupled receptors in the human genome form five main families. Molecular Pharmacology, 63(6), 1256–1272.
+Fuss, J., Steinle, J., Bindila, L., et al. (2015). A runner's high depends on cannabinoid receptors in mice. Proceedings of the National Academy of Sciences, 112(42), 13105–13108. doi:10.1073/pnas.1514996112
+Gates, E.J., et al. (2026). Farnesol, the farnesol pathway, and the immune-gut-brain axis. Frontiers in Pharmacology.
+Gc, J.B., et al. (2023). Allosteric modulation of α1β3γ2 GABA-A receptors by farnesol through the neurosteroid sites. Neuropharmacology. 224: 109342.
+Gómez-Gaviria, M., et al. (2023). Multi-Omics Profiling of Candida albicans Grown on Solid Versus Liquid Media. Microorganisms, 11(12), 2831.
+Harmand, S., et al. (2015). 3.3-million-year-old stone tools from Lomekwi 3, West Turkana, Kenya. Nature, 521(7552), 310–315. doi:10.1038/nature14464
+
+Hogan, D.A., Vik, A., & Kolter, R. (2004). A Pseudomonas aeruginosa quorum-sensing molecule influences Candida albicans morphology. Molecular Microbiology, 54(5), 1212–1223.
+Hornby, J.M., et al. (2001). Quorum sensing in the dimorphic fungus Candida albicans is mediated by farnesol. Applied and Environmental Microbiology, 67(7), 2982–2992.
+Jackson, A.P., et al. (2009). Comparative genomics of the fungal pathogens Candida dubliniensis and Candida albicans. Genome Research, 19(12), 2231–2244. doi:10.1101/gr.097501.109
+Jiang, H.E., et al. (2016). Ancient Cannabis burial shroud in a Central Eurasian Cemetery. Economic Botany, 70(3), 213–221. doi:10.1007/s12231-016-9351-1
+Johanson, D.C., & White, T.D. (1979). A systematic assessment of early African hominids. Science, 203(4378), 321–330.
+Joo, J.H., et al. (2009). Molecular mechanisms involved in farnesol-induced apoptosis. Biochimica et Biophysica Acta, 1793(11), 1721–1732.
+Joo, J.H., et al. (2010).  Candida albicans quorum-sensing molecule tyrosol modulates neutrophil activity and host immune responses. Microbiology. 156(Pt 12): 3854–3864.
+Junginger, A., & Trauth, M.H. (2013). Hydrological constraints of paleo-Lake Suguta in the Northern Kenya Rift during the African Humid Period (15–5 ka BP). Global and Planetary Change, 111, 174–188.
+Kingston, J.D., Deino, A.L., Edgar, R.K., & Hill, A. (2007). Astronomically forced climate change in the Kenyan Rift Valley 2.7–2.55 Ma: Implications for the evolution of early hominin ecosystems. Journal of Human Evolution, 53(5), 487–503. doi:10.1016/j.jhevol.2006.12.007
+Kong, E.F., et al. (2017). Commensal protection of Staphylococcus aureus against antimicrobials by Candida albicans biofilm matrix. mBio, 8(4), e01415-17.
+Kumamoto, C.A. (2011). Inflammation and gastrointestinal Candida colonization. Current Opinion in Microbiology, 14(4), 386–391.
+Leakey, L.S.B. (1959). A new fossil skull from Olduvai. Nature, 184(4685), 491–493.
+Leonhardt, I., et al. (2015). The fungal quorum-sensing molecule farnesol activates innate immune cells but suppresses cellular adaptive immunity. mBio, 6(2), e00143.
+Leshem, M. (2009). Biobehavior of the human love of salt. Neuroscience & Biobehavioral Reviews, 33(1), 1–17. doi:10.1016/j.neubiorev.2008.07.007
+Li, H.L. (1974). An archaeological and historical account of cannabis in China. Economic Botany, 28(4), 437–448. doi:10.1007/BF02862859
+Li, S., He, F., Wen, H., et al. (2017). Low salinity affects cellularity, DNA methylation, and mRNA expression of igf1 in the liver of half smooth tongue sole (Cynoglossus semilaevis). Fish Physiology and Biochemistry, 43(6), 1587–1602. doi:10.1007/s10695-017-0395-7
+Lutz, B., Marsicano, G., Maldonado, R., & Hillard, C.J. (2015). The endocannabinoid system in guarding against fear, anxiety and stress. Nature Reviews Neuroscience, 16(12), 705–718. doi:10.1038/nrn4036
+Lyons, R.P., et al. (2015). Continuous 1.3-million-year record of East African hydroclimate, and implications for patterns of evolution and biodiversity. Proceedings of the National Academy of Sciences, 112(51), 15568–15573. doi:10.1073/pnas.1512864112
+Markey, L., et al. (2020). Colonization with the commensal fungus Candida albicans perturbs the gut-brain axis through dysregulation of endocannabinoid signaling. Psychoneuroendocrinology, 121, 104808. doi:10.1016/j.psyneuen.2020.104808
+Maslin, M.A., Brierley, C.M., Milner, A.M., Shultz, S., Trauth, M.H., & Wilson, K.E. (2014). East African climate pulses and early human evolution. Quaternary Science Reviews, 101, 1–17. doi:10.1016/j.quascirev.2014.06.012
+
+Maslin, M.A., & Trauth, M.H. (2009). Plio-Pleistocene East African Pulsed Climate Variability and Its Influence on Early Human Evolution. In F.E. Grine, J.G. Fleagle, & R.E. Leakey (Eds.), The First Humans — Origin and Early Evolution of the Genus Homo. Springer. doi:10.1007/978-1-4020-9980-9_13
+Maslin, M.A., Shultz, S., & Trauth, M.H. (2015). A synthesis of the theories and concepts of early human evolution. Philosophical Transactions of the Royal Society B, 370(1663), 20140064. doi:10.1098/rstb.2014.0064
+McManus, B.A., et al. (2008). Multilocus sequence typing reveals that the population structure of Candida dubliniensis is significantly less divergent than that of Candida albicans. Journal of Clinical Microbiology, 46(2), 652–664. doi:10.1128/JCM.01574-07
+McPartland, J.M., et al. (2006). Cannabinoid receptors in invertebrates. Journal of Evolutionary Biology, 19(2), 366–373. doi:10.1111/j.1420-9101.2005.01028.x
+McPartland, J.M., Hegman, W., & Long, T. (2019). Cannabis in Asia: Its center of origin and early cultivation, based on a synthesis of subfossil pollen and archaeobotanical studies. Vegetation History and Archaeobotany, 28(6), 691–702. doi:10.1007/s00334-019-00731-8
+Metzger, D.C.H., & Schulte, P.M. (2018). The DNA methylation landscape of stickleback reveals patterns of sex chromosome evolution and effects of environmental salinity. Genome Biology and Evolution, 10(3), 775–785. doi:10.1093/gbe/evy034
+Murphy, S.K., Itchon-Ramos, N., Vber, Z., et al. (2018). Cannabinoid exposure and altered DNA methylation in rat and human sperm. Epigenetics, 13(12), 1208–1221. doi:10.1080/15592294.2018.1554521
+Navarathna DH, Nickerson KW, et al. (2007).
+Farnesol modulates Candida albicans morphogenesis and host immune interactions. FEMS Yeast Research.
+Nickerson, K.W., et al. (2023). Physiological adventures in Candida albicans: farnesol and ubiquinones. Microbiology and Molecular Biology Reviews. doi:10.1128/mmbr.00081-22
+Nile, C.J., et al. (2018). Repurposing Pilocarpine Hydrochloride for Treatment of Candida albicans Infections. mSphere, 3(6), e00689-18.
+Nobile, C.J., et al. (2021). Evolution of the complex transcription network controlling biofilm formation in Candida species. eLife, 10, e64682. doi:10.7554/eLife.64682
+Ost, K.S., & Round, J.L. (2023). Commensal fungi in intestinal health and disease. Nature Reviews Gastroenterology & Hepatology, 20, 723–734.
+Pacioni, G., Rapino, C., Zarivi, O., et al. (2015). Truffles contain endocannabinoid metabolic enzymes and anandamide. Phytochemistry, 110, 104–110. doi:10.1016/j.phytochem.2014.11.012
+Pandey, R., et al. (2009). Endocannabinoids and immune regulation. Pharmacological Research, 60(2), 85–92. doi:10.1016/j.phrs.2009.03.019
+Perestrelo, R., et al. (2020). Candida Species (Volatile) Metabotyping through Advanced Comprehensive Two-Dimensional Gas Chromatography. Microorganisms, 8(12), 1911.
+
+Peroumal, D., et al. (2022). Commensal Fungus Candida albicans Maintains a Long-Term Mutualistic Relationship with the Host To Modulate Gut Microbiota and Metabolism. Microbiology Spectrum. doi:10.1128/spectrum.02462-22
+Pertwee, R.G. (2008). The diverse CB1 and CB2 receptor pharmacology of three plant cannabinoids: Δ9-tetrahydrocannabinol, cannabidiol and Δ9-tetrahydrocannabivarin. British Journal of Pharmacology, 153(2), 199–215. doi:10.1038/sj.bjp.0707442
+Potts, R. (1998). Variability selection in hominid evolution. Evolutionary Anthropology, 7(3), 81–96.
+Rajendran, R., Borghi, E., Falleni, M., et al. (2015). Acetylcholine Protects against Candida albicans Infection by Inhibiting Biofilm Formation and Promoting Hemocyte Function in a Galleria mellonella Infection Model. Eukaryotic Cell, 14(8), 834–844.
+Ren, M., Tang, Z., Wu, X., et al. (2019). The origins of cannabis smoking: Chemical residue evidence from the first millennium BCE in the Pamirs. Science Advances, 5(6), eaaw1391. doi:10.1126/sciadv.aaw1391
+Rodriguez, R.J., & Redman, R.S. (2008). More than 400 million years of evolution and some plants still can't make it on their own: Plant stress tolerance via fungal symbiosis. Journal of Experimental Botany, 59(5), 1109–1114. doi:10.1093/jxb/erm342
+Romo, J.A., & Kumamoto, C.A. (2020). On Commensalism of Candida. Journal of Fungi, 6(1), 16.
+Roullet, J.B., et al. (1999). Farnesol inhibits N-type calcium channels in mammalian cells. Farnesol inhibits L-type Ca²⁺ channels in vascular smooth muscle cells. Journal of Biological Chemistry. 274(36): 25439–25446.
+Rudenko, S.I. (1970). Frozen Tombs of Siberia: The Pazyryk Burials of Iron Age Horsemen. University of California Press.
+Russo, E.B., Jiang, H.E., Li, X., et al. (2008). Phytochemical and genetic analyses of ancient cannabis from Central Asia. Journal of Experimental Botany, 59(15), 4171–4182. doi:10.1093/jxb/ern260
+Scholz, C.A., et al. (2007). East African megadroughts between 135 and 75 thousand years ago and bearing on early-modern human origins. Proceedings of the National Academy of Sciences, 104(42), 16416–16421.
+Schrott, R., Murphy, S.K., Modliszewski, J.L., et al. (2020). Reframing cannabis as a negative epigenetic modulator: DNA methylation patterns at the DLGAP2 locus in sperm of men with cannabis exposure. Scientific Reports, 10, 9951. doi:10.1038/s41598-020-67015-w
+Semighini, C.P., et al. (2006). Farnesol-induced apoptosis in Aspergillus nidulans reveals a possible mechanism for antagonistic interactions between fungi. Molecular Microbiology, 59(3), 753–764.
+Shao, T.Y., et al. (2019). Commensal Candida albicans Positively Calibrates Systemic Th17 Immunological Responses. Cell Host & Microbe, 25, 404–417.
+
+Shchepin, R., et al. (2003). Quorum sensing in Candida albicans: probing farnesol's mode of action with 40 natural and synthetic farnesol analogs. Chemistry & Biology, 10(8), 743–750.
+Shultz, S., & Maslin, M.A. (2013). Early Human Speciation, Brain Expansion and Dispersal Influenced by African Climate Pulses. PLoS ONE, 8(10), e76750. doi:10.1371/journal.pone.0076750
+Sugiura, T., & Waku, K. (2002). Biosynthesis and degradation of anandamide and 2-arachidonoylglycerol and their possible physiological significance. Prostaglandins, Leukotrienes and Essential Fatty Acids, 66(2–3), 173–192.
+Sullivan, D.J., Moran, G.P., & Coleman, D.C. (2005). Candida dubliniensis: Ten years on. FEMS Microbiology Letters, 253(1), 9–17. doi:10.1016/j.femsle.2005.09.015
+Szutorisz, H., & Hurd, Y.L. (2016). Epigenetic effects of cannabis exposure. Biological Psychiatry, 79(7), 586–594. doi:10.1016/j.biopsych.2015.09.014
+Thompson, D.S., et al. (2021). Lineage-specific selection and the evolution of virulence in the Candida clade. Proceedings of the National Academy of Sciences, 118(13), e2016818118. doi:10.1073/pnas.2016818118
+Trauth, M.H., Maslin, M.A., Deino, A., & Strecker, M.R. (2005). Late Cenozoic moisture history of East Africa. Science, 309(5743), 2051–2053. doi:10.1126/science.1112964
+Turkana Basin Institute. (2021). All About Turkana Boy. turkanabasin.org.
+Walker, A., & Leakey, R. (1993). The Nariokotome Homo Erectus Skeleton. Harvard University Press.
+Wilson, K.E., Maslin, M.A., Leng, M.J., et al. (2014). East African lake evidence for Pliocene millennial-scale climate variability. Geology, 42(11), 955–958. doi:10.1130/G35915.1
+Zhang, H., et al. (2022). H3K4me3-mediated gene regulation under low salinity in Cynoglossus semilaevis. Referenced in Si et al. (2021), Aquaculture and Fisheries. doi: pending verification.
+Zohary, D., & Hopf, M. (1988). Domestication of Plants in the Old World. Oxford University Press.
+Zohary, D., Hopf, M., & Weiss, E. (2012). Domestication of Plants in the Old World (4th ed.). Oxford University Press.

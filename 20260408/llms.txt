@@ -1,0 +1,42 @@
+# Redacted Science by Jim Craddock
+
+> Redacted Science is an independent, open-source research initiative by Jim Craddock, a Chemical Engineer, MBA, and Medical Informatics Faculty member at the University of Oklahoma School of Medicine. The project presents a multi-paper scientific framework proposing that Candida albicans functions as a co-evolved biochemical computer with deep signaling integration into mammalian host physiology, shaped by Plio-Pleistocene environmental pressures and systematically excluded from mainstream medical literature since the 1960s.
+
+Jim Craddock is the sole author and subject of a 30-year longitudinal case study interpreted within this framework. All work is published under Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+## Published Papers
+
+- [Paper A: Candida Albicans as a Biochemical Computer](https://doi.org/10.5281/zenodo.19369716): Establishes the biochemical computer framework for C. albicans on pure mycology. Covers Gpr1/Hgt4 glucose sensing, parasexual recombination, phenotypic switching, morphology-dependent extracellular vesicle cargo, and distributed computation. Includes testable predictions.
+- [Paper B: The Saline Oscillation Hypothesis](https://doi.org/10.5281/zenodo.19337526): Proposes that cyclical saline exposure in the African Rift Valley drove co-evolutionary adaptation between Homo and C. albicans, shaping human physiology, immune architecture, and neurological development.
+- [Expose: They Looked. They Were Right. They Were Destroyed.](https://doi.org/10.5281/zenodo.19393804): Historical investigation of the 1960s UK research corridor and the 1965 Winner-Hurley symposium that consolidated C. albicans as an opportunistic pathogen, excluding metabolic and biochemical questions from the sanctioned conversation.
+
+## Key Concepts
+
+- C. albicans as a biochemical computer with memory, adaptation, and learning through chemistry rather than genetic mutation alone
+- Hgt4 glucose sensor calibrated to human blood glucose (~5 mM), not Gpr1 (which senses lactate and methionine)
+- Arachidonic acid substrate competition between prostaglandin and endocannabinoid synthesis
+- Pituitary colonization model with directed hyphal transit
+- Saline oscillation as evolutionary driver of host-symbiont co-adaptation
+- Focal infection theory rehabilitation and historical suppression of mycological research
+- Endocannabinoid system as organism governance architecture
+
+## Author
+
+- Jim Craddock, Chemical Engineer, MBA
+- Medical Informatics Faculty, University of Oklahoma School of Medicine
+- Independent researcher, Redacted Science Research Initiative
+- Contact: jimcraddock.com | redactedscience.org
+- Nostr: nostr.jimcraddock.com
+- Substack: Redacted Science
+- ResearchGate: Jim Craddock (Systems Biology, Medical Technology, Information Science)
+
+## Site Structure
+
+- [Home](https://jimcraddock.com/index.php): Main landing page with project overview, author background, and licensing
+- [AI Chat Links](https://jimcraddock.com/chat/chats.html): Documented AI conversations during research development
+- [Old IPFS Links](https://jimcraddock.com/oldipfslinks.html): Archived decentralized file links
+
+## Optional
+
+- [Redacted Chat](https://redactedchat.com): AI-powered conversational interface for exploring the Redacted Science framework
+- [Zenodo Author Page](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Craddock%2C%20Jim%22): All published papers with DOIs
